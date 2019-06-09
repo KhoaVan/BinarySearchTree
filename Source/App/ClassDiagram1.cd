@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="App.BSTForm" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kgB1SIhA/jc6AqkBSMCWcVS2oyZCjA6HEZEgYSumNpo=</HashCode>
+      <FileName>BSTForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.BSTGraphic&lt;T&gt;">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAAIAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Drawer\BSTGraphic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Program" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Comparer.GraphicNodeComparer" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Comparer\GraphicNodeComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BinarySearchTree.Model.GraphicNodeValue">
+    <Position X="1.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAIAgAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAA=</HashCode>
+      <FileName>Model\GraphicNodeValue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="App.Model.IntegerGraphicNodeValue">
+    <Position X="3" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Model\IntegerGraphicNodeValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Model.StringGraphicNodeValue">
+    <Position X="0.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Model\StringGraphicNodeValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Properties.Resources" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAIIAIAAIAAQAAAABMgCAAQIIgEAAQAAAAAQgAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Properties.Settings" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
